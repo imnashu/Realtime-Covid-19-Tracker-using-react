@@ -37,7 +37,6 @@ export default function Covid() {
                         <br/>
                         <h3 className ="card-title">Last-Updated</h3>
                         <h4 className ="card-text">{karnataka.lastupdatedtime}</h4>
-
                     </div>
             </div>
         </div>
